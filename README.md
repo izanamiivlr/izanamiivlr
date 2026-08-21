@@ -1,4 +1,4 @@
-# Oi, eu sou a Izabelly 👋
+[# Oi, eu sou a Izabelly 👋
 
 🎓 Estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul (UNICSUL) — previsão de conclusão em 2028
 
@@ -28,4 +28,4 @@
 - 🧮 [Calculadora em C](https://github.com/izanamiivlr/exercicio-calculadora-c) — exercício de lógica de programação
 - 😴 [Study Report (Python)](https://github.com/izanamiivlr/study-report) — análise de horas de sono com variáveis e float
 
----
+---](https://www.linkedin.com/in/izabelly-sanches/)
