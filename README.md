@@ -28,4 +28,4 @@
 - 🧮 [Calculadora em C](https://github.com/izanamiivlr/exercicio-calculadora-c) — exercício de lógica de programação
 - 😴 [Study Report (Python)](https://github.com/izanamiivlr/study-report) — análise de horas de sono com variáveis e float
 
----](https://www.linkedin.com/in/izabelly-sanches/)
+---
