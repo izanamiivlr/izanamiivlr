@@ -1,4 +1,4 @@
-![banner](pixel_banner.png)
+![banner](pixel_banner.gif)
 
 # Oi, eu sou a Izabelly 👋
 
