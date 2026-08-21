@@ -31,5 +31,3 @@
 - 😴 [Study Report (Python)](https://github.com/izanamiivlr/study-report) — análise de horas de sono com variáveis e float
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=izanamiivlr&show_icons=true&theme=dark&hide_border=true" width="48%" />
