@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31294612/README.md)
 ![banner](banner.png)
 
 # Oi, eu sou a Izabelly 👋
